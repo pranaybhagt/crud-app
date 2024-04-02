@@ -1,0 +1,18 @@
+{
+  "bookings": [
+    {
+      "id": "2",
+      "name": "Karan",
+      "source": "Lucknow",
+      "destination": "Banglore",
+      "date": "2024-01-01"
+    },
+    {
+      "id": "3",
+      "name": "Vaibhav",
+      "source": "Nagpur",
+      "destination": "Banglore",
+      "date": "2024-01-01"
+    }
+  ]
+}
